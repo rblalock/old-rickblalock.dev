@@ -32,7 +32,7 @@ const IndexPage = (props: IndexPageProps) => {
 				<meta property="twitter:image" content="https://images.unsplash.com/photo-1456023054428-0f2118ef3180?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=780&q=80" />
 			</Head>
 			<Layout>
-				<div className="mx-auto w-1/2">
+				<div className="mx-auto px-5 lg:px-0 w-full lg:w-1/2">
 					<div className="flex flex-col space-y-10 mb-5">
 						<Card
 							title={props.post?.title}
@@ -44,7 +44,7 @@ const IndexPage = (props: IndexPageProps) => {
 						<div className="w-full text-left">
 							<Link key={props.previous.id} href="/post/[id]" as={`/post/${props.previous.id}`}>
 								<a href={`/post/${props.previous.id}`} className="p-3 text-blue-500 font-bold">
-									Previous: <span className="text-blue-300">{props.previous?.title}</span>
+									Previous
 								</a>
 							</Link>
 						</div>

@@ -42,7 +42,7 @@ const PostPage = (props: PostPageProps) => {
 				<meta property="twitter:image" content="https://images.unsplash.com/photo-1456023054428-0f2118ef3180?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=780&q=80" />
 			</Head>
 			<Layout>
-				<div className="mx-auto w-1/2">
+				<div className="mx-auto px-5 lg:px-0 w-full lg:w-1/2">
 					{!loading && (
 						<>
 							<div className="flex flex-col space-y-10 mb-5">
@@ -57,7 +57,7 @@ const PostPage = (props: PostPageProps) => {
 									<div className="w-full text-left">
 										<Link key={previous.id} href="/post/[id]" as={`/post/${previous.id}`}>
 											<a href={`/post/${previous.id}`} className="p-3 text-blue-500 font-bold">
-													Previous: <span className="text-blue-300">{previous?.title}</span>
+												Back
 											</a>
 										</Link>
 									</div>
@@ -67,7 +67,7 @@ const PostPage = (props: PostPageProps) => {
 									<div className="w-full text-right">
 										<Link key={next.id} href="/post/[id]" as={`/post/${next.id}`}>
 											<a href={`/post/${next.id}`} className="p-3 text-blue-500 font-bold">
-													Next: <span className="text-blue-300">{next?.title}</span>
+												Next
 											</a>
 										</Link>
 									</div>
