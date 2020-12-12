@@ -17,4 +17,25 @@ I started on a POC of “embeddable widgets” and made some more headway on tha
 
 Made the list screen on the commercial app less messy by separating out the available permits against “Your permits”, so they’re not all on the same screen.  It’s still a slightly hacky way to do it for now but until the data model gets settled, this is good for now.  Also, made the navigation easier when looking at a permit and there are multiple species for a given permit.
 
-[1]: http://paulgraham.com/ds.html
+### First Week Summary:
+Pretty interesting first week full time on Fish Rules:
+
+For AD’s:
+- 107 new outreach emails sent. 
+- 55 follow-ups sent.
+- We added 277 new contacts/companies to get us just shy of 600 total in HubSpot.
+
+Government customers:
+- Multiple meetings with several state and federal agencies on  several new projects
+
+App(s):
+- Sent out 2 new beta test builds for the Commercial app
+- Launched trip/fish log for web
+- Prototyped embeddable widgets
+
+Business:
+- Setup Gusto (Health insurance and payroll)
+- Started on pricing sheet for API pricing
+- Started on investor pitch deck, sales decks, and info packets
+
+[1]:	http://paulgraham.com/ds.html
