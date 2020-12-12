@@ -35,7 +35,7 @@ const PostPage = (props: PostPageProps) => {
 				<meta property="og:description" content={truncateString(post?.content.replace(/(<([^>]+)>)/ig, '') || '', 200)} />
 				<meta property="og:image" content="https://images.unsplash.com/photo-1456023054428-0f2118ef3180?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=780&q=80" />
 
-				<meta property="twitter:card" content="" />
+				<meta property="twitter:card" content="summary_large_image" />
 				<meta property="twitter:url" content={`/post/${post?.id}`} />
 				<meta property="twitter:title" content={post?.title} />
 				<meta property="twitter:description" content={truncateString(post?.content.replace(/(<([^>]+)>)/ig, '') || '', 200)} />
