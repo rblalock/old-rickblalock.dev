@@ -18,7 +18,7 @@ export interface Post {
 
 const processMarkdown = (content: string) => {
 	const processedContent = remark()
-		.use(bracketedSpans)
+		// .use(bracketedSpans)
 		.use(slug)
 		.use(remarkheadings, {
 			behavior: 'wrap'
