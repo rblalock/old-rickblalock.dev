@@ -56,7 +56,7 @@ const PostPage = (props: PostPageProps) => {
 								{previous && (
 									<div className="w-full text-left">
 										<Link key={previous.id} href="/post/[id]" as={`/post/${previous.id}`}>
-											<a href={`/post/${previous.id}`} className="p-3 text-blue-500 font-bold">
+											<a href={`/post/${previous.id}`} className="p-3 text-yellow-500 font-bold">
 												Back
 											</a>
 										</Link>
@@ -66,7 +66,7 @@ const PostPage = (props: PostPageProps) => {
 								{next && (
 									<div className="w-full text-right">
 										<Link key={next.id} href="/post/[id]" as={`/post/${next.id}`}>
-											<a href={`/post/${next.id}`} className="p-3 text-blue-500 font-bold">
+											<a href={`/post/${next.id}`} className="p-3 text-yellow-500 font-bold">
 												Next
 											</a>
 										</Link>

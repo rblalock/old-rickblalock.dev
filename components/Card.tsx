@@ -11,7 +11,7 @@ const Card = (props: CardProps) => {
 				{props.title}
 			</h3>
 			<div
-				className="p-6 prose-sm prose-blue dark:text-gray-200 break-words"
+				className="p-6 prose-sm prose-yellow dark:text-gray-200 break-words"
 				dangerouslySetInnerHTML={{
 					__html: props.content || ''
 				}}

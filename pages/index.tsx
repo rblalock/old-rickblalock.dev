@@ -43,7 +43,7 @@ const IndexPage = (props: IndexPageProps) => {
 					<div className="flex">
 						<div className="w-full text-left">
 							<Link key={props.previous.id} href="/post/[id]" as={`/post/${props.previous.id}`}>
-								<a href={`/post/${props.previous.id}`} className="p-3 text-blue-500 font-bold">
+								<a href={`/post/${props.previous.id}`} className="p-3 text-yellow-500 font-bold">
 									Previous
 								</a>
 							</Link>
