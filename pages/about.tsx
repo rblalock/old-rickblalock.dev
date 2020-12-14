@@ -52,8 +52,6 @@ export const getStaticProps: GetStaticProps = async () => {
 		.use(html)
 		.processSync(content);
 
-	console.log(processedContent);
-
 	return {
 		props: {
 			content: processedContent.toString()

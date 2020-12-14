@@ -6,11 +6,11 @@ interface LayoutProps {
 }
 const Layout = (props: LayoutProps) => {
 	return (
-		<div className="font-mono">
+		<div className="font-mono mb-20">
 			<div className="my-10">
-				<h1 className="text-5xl text-center text-gray-700 dark:text-gray-300 flex flex-col m-5">
+				<h1 className="text-4xl text-center text-gray-700 dark:text-gray-300 flex flex-col m-5">
 					<a href="/">Rick Blalock</a>
-					<span className="mt-3 text-sm text-gray-300">
+					<span className="mt-5 text-sm text-gray-300">
 						<Link href="/about" as={`/about`}>
 							<a href={`/about`} className="text-gray-400">
 								About
