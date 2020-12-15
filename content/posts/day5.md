@@ -1,12 +1,12 @@
 ---
-title: Fish Rule Day 5
+title: Fish Rules Day 5
 date: 12-08-2020
 published: true
 ---
 
 Early morning reading material consisted of:
 
-- [Ten lessons from a decade of vertical software investing](https://www.bvp.com/atlas/ten-lessons-from-a-decade-of-vertical-software-investing)
+- [Ten lessons from a decade of vertical software investing][1]
 
 Wrote up some high level, abstract strategic thoughts for 2021 for Fish Rules.
 
@@ -27,3 +27,5 @@ Worked on the investor deck and gov. sales deck
 Met with a different startup about non-related Fish Rules things
 
 Wrapped up talking through all the various strategies and calls with Albrey
+
+[1]:	https://www.bvp.com/atlas/ten-lessons-from-a-decade-of-vertical-software-investing

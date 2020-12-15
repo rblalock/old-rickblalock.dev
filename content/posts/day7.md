@@ -1,5 +1,5 @@
 ---
-title: Fish Rule Day 7
+title: Fish Rules Day 7
 date: 12-11-2020
 published: true
 ---

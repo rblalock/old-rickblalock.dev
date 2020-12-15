@@ -1,5 +1,5 @@
 ---
-title: Fish Rule Day 2
+title: Fish Rules Day 2
 date: 12-05-2020
 published: true
 ---

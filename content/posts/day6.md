@@ -1,5 +1,5 @@
 ---
-title: Fish Rule Day 6
+title: Fish Rules Day 6
 date: 12-09-2020
 published: true
 ---
