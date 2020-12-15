@@ -5,7 +5,7 @@ published: true
 ---
 
 Fun mental exercise for the day:
-“Would the captain of the Titanic altered course icebergs if he was less experienced?”
+“Would the captain of the Titanic altered course if he was less experienced?”
 
 Had a great meeting with some of our government customers around the new commercial app, beta testing plans, etc.  The beta testing duration is way too long for this type of app but empathetically, I understand why they need it to be that way.
 
