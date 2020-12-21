@@ -6,7 +6,7 @@ interface LayoutProps {
 }
 const Layout = (props: LayoutProps) => {
 	return (
-		<div className="font-mono mb-20">
+		<div className="mb-20">
 			<div className="my-10">
 				<h1 className="text-4xl text-center text-gray-700 dark:text-gray-300 flex flex-col m-5">
 					<a href="/">Rick Blalock</a>
