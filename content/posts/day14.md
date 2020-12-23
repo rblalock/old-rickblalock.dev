@@ -15,6 +15,7 @@ Of course other things will happen those days, this just helps me bucket certain
 
 Thus, today was “Marketing Wednesday”!
 - Upgraded the marketing website to the latest versions of NextJS, Tailwind, React, etc.
+- Added some fresh water features to the marketing site.
 - Believe it or not, we didn’t have a Google Search Console account set up.  After I did that I registered the new sitemap and started poking around.  Fun fact: We showed up in Cobia regulations a lot yesterday.
 - Planned out how we’re going to do our “news” section on our website.
 
