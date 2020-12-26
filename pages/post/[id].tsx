@@ -49,6 +49,7 @@ const PostPage = (props: PostPageProps) => {
 								<Card
 									title={post?.title}
 									content={post?.content}
+									date={post?.date}
 								/>
 							</div>
 
