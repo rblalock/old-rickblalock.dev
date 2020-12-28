@@ -1,9 +1,9 @@
 import React from 'react';
 
 interface CardProps {
-	title: string;
-	content: string;
-	date: string;
+	title?: string;
+	content?: string;
+	date?: string;
 }
 const Card = (props: CardProps) => {
 	return (
