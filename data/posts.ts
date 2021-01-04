@@ -3,7 +3,6 @@ import path from 'path';
 import remark from 'remark';
 import matter from 'gray-matter';
 import html from 'remark-html';
-import bracketedSpans from 'remark-bracketed-spans';
 import remarkheadings from 'remark-autolink-headings';
 import slug from 'remark-slug';
 
@@ -11,6 +10,7 @@ const contentDirectory = path.join(process.cwd(), 'content/posts');
 export interface Post {
 	id: string;
 	date: string;
+	timestamp: number;
 	title: string;
 	published: boolean;
 	content?: string;
@@ -50,6 +50,7 @@ export const getPosts = async () => {
 		return {
 			...matterResult.data as Post,
 			id,
+			timestamp: new Date(matterResult.data.date).getTime(),
 			content: processedContent
 		};
 	});
@@ -58,7 +59,7 @@ export const getPosts = async () => {
 	return allPostsData
 		.filter((post) => post.published)
 		.sort((a, b) => {
-			if (a.date < b.date) {
+			if (a.timestamp < b.timestamp) {
 				return 1
 			} else {
 				return -1
