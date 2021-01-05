@@ -21,3 +21,8 @@ body {
 /* Stop purging. */
 
 /* Your own custom utilities */
+.twitter-video {
+  background: #fff;
+  border-radius: 1em;
+  padding: 1em;
+}

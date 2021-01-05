@@ -5,7 +5,7 @@ import matter from 'gray-matter';
 import html from 'remark-html';
 import remarkheadings from 'remark-autolink-headings';
 import remarkEmbedder from '@remark-embedder/core';
-import oembedTransformer from '@remark-embedder/transformer-oembed';
+import oembedTransformer, { Config } from '@remark-embedder/transformer-oembed';
 import slug from 'remark-slug';
 
 const contentDirectory = path.join(process.cwd(), 'content/posts');
@@ -26,7 +26,12 @@ const processMarkdown = async (content: string) => {
 			behavior: 'wrap'
 		})
 		.use(remarkEmbedder, {
-			transformers: [oembedTransformer],
+			transformers: [
+				[
+					oembedTransformer,
+					{ params: { dnt: true, omit_script: false, widget_type: 'video' } } as Config,
+				],
+			],
 		})
 		.use(html)
 		.process(content);
