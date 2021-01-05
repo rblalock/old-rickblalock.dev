@@ -6,6 +6,8 @@ published: true
 
 Tweet of the day goes to Matt W: [https://twitter.com/mattwensing/status/1342196719593906194?s=11][1]
 
+https://twitter.com/mattwensing/status/1342196719593906194?s=11
+
 ## Misc.
 
 [Gusto’s][2] healthcare and payroll stuff is kicking off now that it is the end of the month.  Seems like it’s going quite smoothly.  I’d highly recommend [checking them out][3].
@@ -33,6 +35,8 @@ ASA personas are gold: [https://asafishing.org/wp-content/uploads/2020/10/ASA\_V
 
 ## Dev.
 Mobile progress today included lots of work around the fish logging flow(s).  [Here’s a video][5] of the progress.
+
+https://twitter.com/rblalock/status/1344307666336755714
 
 [1]:	https://twitter.com/mattwensing/status/1342196719593906194?s=11
 [2]:	https://gusto.com/r/rick543

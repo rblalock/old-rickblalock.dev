@@ -14,6 +14,8 @@ I found an interesting plugin for this blog: [https://github.com/remark-embedder
 
 I watched [“Before the startup”][3] by Paul Graham over lunch.  What a refreshing talk.
 
+https://www.youtube.com/watch?v=ii1jcLg-eIQ&feature=emb_title&ab_channel=HowtoStartaStartup
+
 ## Marketing
 
 6 more days left before my little [branding experiment][4] ends.  I pulled out the big guns today and used a mobile push notification, which went to 515k devices.  We’ll see how that works.  Unfortunately, the current app doesn’t have a way to open a link from a push notification, so mileage will vary on how many people read the notification and go to the website from there. (Shrug).  I forgot about Firebase in-app messaging…thought I had implemented it at one time but I guess I didn’t.  Another thing to add to the v6 list.

@@ -6,8 +6,7 @@ published: true
 
 Tweet of the day goes to [@rauchg][1]:
 
-_“First, solve the problem. Then, write the code.”_ 
-– John Johnson
+https://twitter.com/rauchg/status/1340445121607680002?s=11
 
 It’s interesting trying to get in to a groove in this bootstrapped scenario.  No habits formed yet but everything I’m doing is habit forming.  Gotta be mindful of that.  Also, determining what must be done now vs. later is so important … it’s constantly on the top of my mind.
 

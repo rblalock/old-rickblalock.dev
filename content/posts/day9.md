@@ -6,6 +6,8 @@ published: true
 
 Apparently [bagpipe rave music][1] is a thing.
 
+https://open.spotify.com/track/33gH2RH1Cu4eAArqjMwXMq?si=fxLo6gdRSqSkOhjOY0KEEw
+
 Today was mostly a technical day.
 
 Worked on animating the contour SVG’s.  [Turned out nice][2].

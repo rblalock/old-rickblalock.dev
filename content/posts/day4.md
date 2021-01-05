@@ -6,6 +6,8 @@ published: true
 
 Tweet of the day "The 10 Commandments of Product Management": [https://twitter.com/shreyas/status/1335790469695983618?s=10][1]
 
+https://twitter.com/shreyas/status/1335790469695983618?s=10
+
 Good call with a gov. agency on their website planning and how Fish Rules regulations play a part.  They're not planning on release till 2021 (assuming the entire 2020 for development), so I assume we'll play a part later on in the year.
 
 Had a good intro call with an NGO on a new grant they received around fish ID and using our regulations in their app(s).  It was an intro and really early for them so we'll see how that goes.
