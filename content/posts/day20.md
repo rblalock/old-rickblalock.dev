@@ -1,6 +1,6 @@
 ---
 title: Fish Rules Day 20
-date: 01-06-2020
+date: 01-06-2021
 published: true
 ---
 
@@ -12,11 +12,11 @@ https://twitter.com/jasonfried/status/1344364060679184384?s=11
 
 Continuing the YCOM / Stanford series, listened to Peter Thiel’s [“Competition is for losers”][1].  The “lies people tell” was good.
 
-I didn’t get a lot done today (at least it felt like it…I still knocked off most of the things on my list).  Maybe it’s because it felt like half the day I was doom scrolling the “revolution” on Twitter.
+I didn’t get a lot done today (at least it felt like it…I still knocked off most of the things on my list).  Maybe it’s because it felt like half the day I was doom scrolling the would-be “revolution” on Twitter.
 
 ## Business
 
-A state agency reached out to become a partner!  Stoked.  It’s the salt water side of the agency, still gotta get the fresh water side on board too (although technically they’re 2 different customers).
+A state agency reached out to become a partner!  Stoked.  It’s the salt water side of the agency, still want to get the fresh water side on board too (although technically they’re 2 different customers with 2 different contracts).
 
 I worked on the investment deck, it’s about 90% done.  Hopefully I never have to use it :-D.
 
