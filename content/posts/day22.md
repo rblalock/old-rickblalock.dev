@@ -43,13 +43,6 @@ If you missed some of the previous days’ posts, here some specifics:
 - v6 of the Mobile app is full wired up to regulations and images and seemed to work quite well as a first-run at things.
 - Investment, API, and government sales decks and related collateral are done.  Time to start the campaigns!
 
-
-
-Opening: Tweet length overview of the week
-KPI’s: Revenue, runway, hero metrics, 
-Progress Bullets
-Key Asks from followers
-
 [1]:	https://open.spotify.com/episode/2BRMUSnGzwVzSyfVVuni2u?si=KfvSSgkrSUugKKcFQBM-uw
 [2]:	https://www.postman.com/postman-galaxy/postman-api-hack/?dcid=7011K000001uVueQAE&mkt_tok=eyJpIjoiT0RNeVl6TTRZek0yTWprdyIsInQiOiJYZDFUSk04VGlHSDFENzJJeFRTXC9nYVFnZ1k5RlJNYkZTY2NMMm1NdlNPc25rc3RZc3ViNUxId25FXC9pWE5VWkFZSXkrMWFRNlpMZGZ4WW5xQ3pnZThEYVNRc1pycG9UbkhBS2ZIQ2FibzRrU1RaSmZSSWMzSUhSRlwvTWd1OFoxTCJ9
 [3]:	intro.me
