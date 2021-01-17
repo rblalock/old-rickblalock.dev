@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=uFX95HahaUs&ab\_channel=HowtoStartaStartup
 
 ## Business
 
-Sent out the first government information sheet / deck to an interested state agency.  Can’t wait to see the questions this information generates.  I’ve bounced it off some people and in general it’s been good feedback but for a brand new customer that is unfamiliar with Fish Rules, it’ll be really interesting.  We did have one state agency immediate reach out and state they’re interested in partnering.  AWESOME!
+Sent out the first government information sheet / deck to an interested state agency.  Can’t wait to see the questions this information generates.  I’ve bounced it off some people and in general it’s been good feedback but for a brand new customer that is unfamiliar with Fish Rules, it’ll be really interesting.  We did have one state agency immediately reach out and state they’re interested in partnering.  AWESOME!
 
 Sent out beta links for Fish Rules Commercial, to the first round of internal NOAA testers.
 
