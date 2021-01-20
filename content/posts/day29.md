@@ -32,9 +32,9 @@ I continued my blitz on the mobile app, v6 today:
 - Android’s federal/local buttons work now
 - Added photo upload and management for fish logs
 
-Frustratingly, if you leave comments in your React markup code, an error _**Error: Text strings must be rendered within a \<Text\> component.**_ …which took me way to long to figure out what the exact issue was…a code comment!
+Frustratingly, if you leave comments in your React markup code, an error _Error: Text strings must be rendered within a \<Text\> component._ …which took me way too long to figure out what the exact issue was…….a code comment!
 
-Another gotcha I ran in to today: The geo coordinates from EXIF data is different on iOS and Android…and different by a lot.
+Another gotcha I ran in to today: The geo coordinates from EXIF data is different on iOS and Android…
 
 [Flipper][1] is super helpful for debugging React Native apps.
 
