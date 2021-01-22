@@ -4,7 +4,9 @@ date: 01-21-2021
 published: true
 ---
 
-[Strategy turns][1], by _@swyx_ was a great today. _"What got you here won't get you there.”_
+[Strategy turns][1], by _@swyx_ was a great today. 
+
+_"What got you here won't get you there.”_
 
 ## Business
 
