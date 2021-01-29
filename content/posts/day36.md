@@ -12,4 +12,4 @@ But I do leave you with this read:
 
 [The Journey to $10k/MRR][1]
 
-[1]:	[https://www.bannerbear.com/journey-to-10k-mrr/]
+[1]:	https://www.bannerbear.com/journey-to-10k-mrr/
