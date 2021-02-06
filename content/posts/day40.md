@@ -6,7 +6,7 @@ published: true
 
 Listened to this great podcast today: [“Anti-patterns of 10x thinking”][1].  Some parts of it I liked:
 - Rethinking vs. Contrarian Thinking
-- Scientist backgrounds do a better with pivots and changing product assumptions and vision
+- Scientist backgrounds do a job better with pivots and changing product assumptions and vision
 - Super-forecasters??? Never heard of it but it’s cool!
 
 ## Catching Up
@@ -15,9 +15,9 @@ I took a few days off to tour Kennedy Space Center and watch a SpaceX launch.  I
 
 https://twitter.com/rblalock/status/1357303692173729800
 
-As with any break…I get buried in things to do when I get back!  The entire morning was spent following up with people, going through email, updating customers on some delays (UGH), progress, etc.
+As with any break…I get buried in big piles of todo’s when I get back!  The entire morning was spent following up with people, going through email, updating customers on some delays (UGH), progress, etc.
 
-Also sent off some bullets to Andrew, to start the conversation around our new feature we’re going to do this year (map-centric features)
+Also sent off some bullets to Andrew, to start the conversation around our new feature we’re going to do this year (map-centric).
 
 Had a good working lunch with Albrey, going over launch plans for v6, what else is needed, etc.  We’re going out on the ocean tomorrow to test some of the geo-location functions.
 
