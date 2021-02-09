@@ -4,9 +4,7 @@ date: 01-20-2021
 published: true
 ---
 
-On listening: _"While we may not interrupt vocally, *we are interrupting others with our thoughts”*_
-
-https://twitter.com/shreyas/status/1350734089028943875?s=11
+[On listening][1]: _"While we may not interrupt vocally, *we are interrupting others with our thoughts”*_
 
 ## Misc.
 
@@ -23,3 +21,5 @@ Today is “Marketing Wednesday” but because of the v6 blitz, I’ve pushed al
 ## Dev
 
 Tidying up deployments for v6 was all the dev I had time for today.  I’ll probably get back at v6 later tonight.
+
+[1]:	https://twitter.com/shreyas/status/1350734089028943875
