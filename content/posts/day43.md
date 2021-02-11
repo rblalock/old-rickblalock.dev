@@ -20,6 +20,8 @@ Then Facebook updated a dep around Flipper and broke things.  Ref. [This article
 
 Then, after I got all that working, the simulator and Android device I had could not talk to the dev server.  Come to find out the MacOS update changed the firewall settings and I had to whitelist a few things. 
 
+Another thing it did, which I didn’t realize until I started seeing weird errors on `npm start`:  IT CHANGED MY NODE VERSION TO VERSION 8!!!  That was released 3 years ago…this laptop isn’t even a year old…I never installed that did I?!  It was really weird that it used that after I installed the MacOS update.
+
 THEN (Oh no, I’m not done yet), the JS bundle was not being created by the React Native tooling.  Device and sims could connect to the dev server, launch the app, run some of the native bootstrap code but there was no JS bundle so nothing happened.  When I tried building a release, it would just hang at the last few tasks and never complete.  Total complete nightmare.  I opened up Xcode and decided to watch all the build logs (all 900,000,000,000 lines)…and it occurred to me that there had to be some C++ bindings or some ruby script that was erroring out but wasn’t outputting the problem.
 
 I ran: `brew uninstall Watchman`
