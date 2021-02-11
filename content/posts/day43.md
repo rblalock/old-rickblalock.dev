@@ -8,7 +8,9 @@ https://twitter.com/karrisaarinen/status/1358908828734038021?s=11
 
 ## Biz.
 
-Added lots of “ads” and in-app messaging that takes users to our new ProStaff subscription page in the app(s).  [Here’s][1] what the in-app message pop-up looks like.  Firebase has some nice targeting features so I set it up to show every 30 days for a user, once a user dismisses it.
+We got 20 subscribers in our first day with the new ProStaff plan.  :-)
+
+Once I knew the subscription was working ok, I added lots of “ads” and in-app messaging that takes users to our new ProStaff subscription page in the app(s).  [Here’s][1] what the in-app message pop-up looks like.  Firebase has some nice targeting features so I set it up to show every 30 days for a user, once a user dismisses it.  We’ll see how those perform over the next week or so…maybe do some A/B testing after that on different ones.
 
 ## Dev
 
