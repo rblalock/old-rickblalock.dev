@@ -24,7 +24,7 @@ https://twitter.com/FishRulesApp/status/1362248557756112896?s=20
 
 ## Biz.
 
-Some really progress and news on the ad side, government side, and NGO side.  Not going to take the time and type it up tonight though.  Sorry :-)
+Some really good progress and news on the ad side, government side, and NGO side.  Not going to take the time and type it up tonight though.  Sorry :-)
 
 ## Dev
 
