@@ -14,6 +14,8 @@ Reached out to 12 angel investors today.
 
 It’s interesting seeing the public space in this industry start to realize UI and UX matters and directly relates to how well their science projects perform.  On that note, [this][1] was a fun read today. “Citibank just got a $500 million lesson in the importance of UI design” 🤣
 
+Did a blitz on all my government contacts telling them about the new citizen science features coming.
+
 Mike got the HIMS ad deal closed out and the ads are in the app now. 💪
 
 ## Marketing
