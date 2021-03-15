@@ -12,7 +12,7 @@ https://twitter.com/swyx/status/1367518496326709251?s=11
 
 Took a lead-gen type call with a company that is trying to do founder meeting groups (kind of like YCOM’s startup school).  The problem is I immediately shut the sales person down because it sounded like the same ole’ same ole’. I expressed the problems inherit in those groups in hopes he’d tell me they address that and they’re doing something better.  He attempted to but it didn’t address them at all and really sounded like they embrace the problems and waste of time those groups often generate.  $199/month to sit in a group and listen to other people complain or ask questions…yikes.
 
-Sat through a decent session on “Launching an MVP” with a startup group.
+Speaking of…today I Sat through a decent session on “Launching an MVP” with a startup group, for free.  :-)
 
 ## Business
 
