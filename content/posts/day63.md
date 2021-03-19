@@ -25,6 +25,9 @@ Today was a lot of prototyping for new analytics features we’ll eventually put
 
 https://twitter.com/rblalock/status/1372243650332270592
 
+Uber’s [viz tools][4] are fantastic.
+
 [1]:	https://www.nfx.com/post/frameworks-new-market-creation
 [2]:	https://rockset.com/
 [3]:	https://rockset.com/
+[4]:	https://kepler.gl/
