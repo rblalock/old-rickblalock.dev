@@ -6,6 +6,10 @@ published: true
 
 “If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” -A. Einstein
 
+## Biz & Marketing
+
+Had a really strong meeting with one of our federal customers.  A good sound byte from the meeting: “We’ve found strong correlation between Fish Rules activity data and MRIP results.”  The reason why this is huge is because we can potentially use Fish Rules data to project, in real time, data scientists use to manage fisheries.
+
 ## Dev
 
 #### Mobile app updates
